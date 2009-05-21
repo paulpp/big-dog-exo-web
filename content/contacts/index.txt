@@ -9,10 +9,7 @@ ads:
  - two
  - three
 ---
-<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
-Nunc congue ipsum vestibulum libero. Aenean vitae justo. Nam eget tellus. 
-Etiam convallis, est eu lobortis mattis, lectus tellus tempus felis, 
-a ultricies erat ipsum at metus.</p>
+<p>hey guys we are in Martinez, california.</p>
 
 <div class="wrapper">
     <a href="#" class="link1"><em><b>click here to read more</b></em></a>
